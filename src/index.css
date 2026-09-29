@@ -1,0 +1,15 @@
+.app {
+  /* width: 100dvw; */
+  min-height: 100dvh;
+}
+
+.bar1 {
+  height: 24px;
+  width: 100%;
+  background: red;
+}
+
+.banner {
+  height: 56px;
+  background: blue;
+}
